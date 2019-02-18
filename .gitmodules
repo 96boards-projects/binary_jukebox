@@ -1,0 +1,3 @@
+[submodule "fpga_mezz_lib"]
+	path = fpga_mezz_lib
+	url = https://github.com/96boards-projects/fpga_mezz_lib
